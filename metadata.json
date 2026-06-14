@@ -1,0 +1,6 @@
+{
+  "name": "Turk Masale",
+  "description": "E-commerce app for Turk Masale with secure payment gateway, product catalog, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
